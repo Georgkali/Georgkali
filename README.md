@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Georgijs Kaličava
 - 👀 I’m interested in Web Development
 - 📫 georgijs.kalicava@gmail.com
-- My LinkedIn profile https://www.linkedin.com/in/georgijs-kalicava/
 - :arrow_right: <a href="https://github.com/Georgkali/Covid19-Data"> C19 Data </a> Application for search of information about covid-19 restrictions. (PHP, symfony composer, packages)
 - :arrow_right: <a href="https://github.com/Georgkali/Product-Catalog"> Product Catalog </a> Application which allows to create personal profile and store its own products. (PHP, twig, packages)
 - :arrow_right: <a href="https://github.com/Georgkali/Weather"> Weather App </a> Application for weather forecast in a user's defined city. (PHP, API, packages)
