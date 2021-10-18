@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 📫 georgijs.kalicava@gmail.com
 - My LinkedIn profile https://www.linkedin.com/in/georgijs-kalicava/
-- :arrow_right:
+- :arrow_right: <a href="https://github.com/Georgkali/Covid19-Data">C19 Data</a>
 - :arrow_right:
 - :arrow_right:
 <!---
